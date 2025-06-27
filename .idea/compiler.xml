@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="WeatherApp.app" target="21" />
+      <module name="WeatherApp.buildSrc" target="21" />
+      <module name="WeatherApp.buildSrc.main" target="21" />
+      <module name="WeatherApp.buildSrc.test" target="21" />
+      <module name="WeatherApp.core" target="21" />
+      <module name="WeatherApp.data" target="21" />
+      <module name="WeatherApp.features.city_input" target="21" />
+      <module name="WeatherApp.features.current_weather" target="21" />
+      <module name="WeatherApp.features.forecast_weather" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
